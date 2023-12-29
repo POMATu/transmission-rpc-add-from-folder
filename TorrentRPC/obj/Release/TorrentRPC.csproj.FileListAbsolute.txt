@@ -1,0 +1,15 @@
+c:\users\администратор\documents\visual studio 2015\Projects\TorrentRPC\TorrentRPC\bin\Release\TorrentRPC.exe.config
+c:\users\администратор\documents\visual studio 2015\Projects\TorrentRPC\TorrentRPC\bin\Release\TorrentRPC.exe
+c:\users\администратор\documents\visual studio 2015\Projects\TorrentRPC\TorrentRPC\bin\Release\TorrentRPC.pdb
+c:\users\администратор\documents\visual studio 2015\Projects\TorrentRPC\TorrentRPC\bin\Release\BencodeNET.dll
+c:\users\администратор\documents\visual studio 2015\Projects\TorrentRPC\TorrentRPC\bin\Release\INIFileParser.dll
+c:\users\администратор\documents\visual studio 2015\Projects\TorrentRPC\TorrentRPC\bin\Release\Newtonsoft.Json.dll
+c:\users\администратор\documents\visual studio 2015\Projects\TorrentRPC\TorrentRPC\bin\Release\System.Buffers.dll
+c:\users\администратор\documents\visual studio 2015\Projects\TorrentRPC\TorrentRPC\bin\Release\System.Memory.dll
+c:\users\администратор\documents\visual studio 2015\Projects\TorrentRPC\TorrentRPC\bin\Release\System.Numerics.Vectors.dll
+c:\users\администратор\documents\visual studio 2015\Projects\TorrentRPC\TorrentRPC\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+c:\users\администратор\documents\visual studio 2015\Projects\TorrentRPC\TorrentRPC\bin\Release\System.Threading.Tasks.Extensions.dll
+c:\users\администратор\documents\visual studio 2015\Projects\TorrentRPC\TorrentRPC\bin\Release\Transmission.API.RPC.dll
+c:\users\администратор\documents\visual studio 2015\Projects\TorrentRPC\TorrentRPC\obj\Release\TorrentRPC.csproj.TorrentRPC.exe.config
+c:\users\администратор\documents\visual studio 2015\Projects\TorrentRPC\TorrentRPC\obj\Release\TorrentRPC.exe
+c:\users\администратор\documents\visual studio 2015\Projects\TorrentRPC\TorrentRPC\obj\Release\TorrentRPC.pdb
